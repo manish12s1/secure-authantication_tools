@@ -1,0 +1,14 @@
+# Auto-generated malware signatures
+# one hash per line (md5 or sha256)
+# /home/manish/eicar.com
+44d88612fea8a8f36de82e1278abb02f
+275a021bbfb6489e54d471899f7db9d1663fc695ec2fe2a2c4538aabf651fd0f
+# /home/manish/eicar.com:Zone.Identifier
+c3566d566ff9e2b104507b09f7ef0eb9
+730132d43d3897a5c6efb7eb47f993f0f3dc0d9a1e29fbf8ec1e87263cf1959f
+# /home/manish/QUARANTINE_VAULT/empty_1_1.bin
+d41d8cd98f00b204e9800998ecf8427e
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+# /home/manish/QUARANTINE_VAULT/image1.jpg
+cf2078a23a4f46f76612265747adac74
+78e4d51bcd821f245755b39c9b9f719dbed3e1af4831e14a91ec8babea714deb

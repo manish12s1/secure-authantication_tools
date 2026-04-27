@@ -1,0 +1,7 @@
+.vscode/
+.vscode-server/
+__pycache__/
+*.pyc
+*.log
+*.tmp
+*.swp

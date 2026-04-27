@@ -1,0 +1,14 @@
+{
+    "timestamp": "2026-04-20 15:57:41",
+    "threshold": 3,
+    "malicious_ips": [
+        {
+            "ip": "193.10.22.45",
+            "failed_attempts": 73
+        },
+        {
+            "ip": "45.33.12.99",
+            "failed_attempts": 86
+        }
+    ]
+}
